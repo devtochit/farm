@@ -42,7 +42,7 @@ const Investors = () => {
 
   return (
     <div className="relative bg-white w-full h-[2423px] overflow-hidden text-left text-3xl text-gray-1000 font-sf-pro-display">
-      <div className="absolute top-[80px] left-[0px] w-[1440px] h-[453px] overflow-hidden bg-[url(../public/frame-28@3x.png)] bg-cover bg-no-repeat bg-[top] text-4xl text-white">
+      <div className="absolute top-[80px] left-[0px] w-full  h-[453px] overflow-hidden bg-[url(../public/frame-28@3x.png)] bg-cover bg-no-repeat bg-[top] text-4xl text-white">
         <div className="absolute top-[141px] left-[209px] font-medium inline-block w-[702px]">
           Your Funds, Working for you.
         </div>

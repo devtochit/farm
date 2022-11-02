@@ -111,7 +111,7 @@ const ProductServices = () => {
             </div>
           </div>
         </div>
-        <div className="absolute top-[80px] left-[0px] w-[1440px] h-[453px] overflow-hidden bg-[url(../public/frame-281@3x.png)] bg-cover bg-no-repeat bg-[top] text-4xl">
+        <div className="absolute top-[80px] left-[0px] w-full  h-[453px] overflow-hidden bg-[url(../public/frame-281@3x.png)] bg-cover bg-no-repeat bg-[top] text-4xl">
           <div className="absolute top-[141px] left-[209px] font-medium inline-block w-[702px]">
             We produce one of the finest in Africa
           </div>

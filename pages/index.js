@@ -95,9 +95,9 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="absolute top-[509px] left-[0px] rounded-[350px_350px_0px_0px] w-[1440px] h-[435px] overflow-hidden">
+        <div className="absolute top-[509px] left-[50px] rounded-[350px_350px_0px_0px] w-[1440px] h-[435px] overflow-hidden">
           <img
-            className="absolute top-[0px] left-[0px] w-[3955px] h-[2637px] object-cover"
+            className="  w-[2880px] h-[870px] "
             alt=""
             src="../highanglefarmlandview-1@2x.png"
           />
@@ -113,7 +113,7 @@ const Home = () => {
       <div className="absolute top-[1079px] left-[120px] w-[1176px] h-[667px]">
         <div className="absolute top-[0px] left-[0px] w-[592px] h-[667px]">
           <img
-            className="absolute top-[95px] left-[0px] rounded-[16px] w-[265px] h-[272px] object-cover"
+            className="absolute  top-[95px] left-[0px] rounded-[16px] w-[265px] h-[272px] object-cover"
             alt=""
             src="../rectangle-1@2x.png"
           />

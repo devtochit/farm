@@ -82,7 +82,7 @@ const OurCompany = () => {
           </div>
         </div>
       </div>
-      <div className="absolute top-[81px] left-[0px] w-[1440px] h-[453px] overflow-hidden bg-[url(../public/frame-282@3x.png)] bg-cover bg-no-repeat bg-[top] text-4xl text-white">
+      <div className="absolute top-[81px] left-[0px] w-full h-[453px] overflow-hidden bg-[url(../public/frame-282@3x.png)] bg-cover bg-no-repeat bg-[top] text-4xl text-white">
         <div className="absolute top-[141px] left-[209px] font-medium inline-block">
           About
         </div>

@@ -38,9 +38,9 @@ const ContactUs = () => {
 
   return (
     <div className="relative bg-white w-full h-[2068px] overflow-hidden text-left text-3xl text-white font-sf-pro-display">
-      <div className="absolute top-[80px] left-[0px] w-[1440px] h-[453px] overflow-hidden text-4xl">
+      <div className="absolute top-[80px] left-[0px] w-full  h-[453px] overflow-hidden text-4xl">
         <img
-          className="absolute top-[0px] left-[0px] w-[1440px] h-[960px] object-cover"
+          className="absolute top-[0px] left-[0px] w-full  h-[960px] object-cover"
           alt=""
           src="../portraitsmilingafricanmanagronomistisworkinghisfarm-3379916512-1@2x.png"
         />
