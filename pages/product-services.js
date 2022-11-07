@@ -426,7 +426,7 @@ const ProductServices = () => {
             src="../pagination-arrow-right.svg"
           />
         </div>
-        <div className="absolute bottom-[0px] left-[calc(50%_-_720px)] bg-gray-1100 w-[1440px] h-[365px] overflow-hidden text-sm">
+        <div className="absolute bottom-[0px]  bg-gray-1100 w-full  h-[365px] overflow-hidden text-sm">
           <div className="absolute top-[58px] left-[120px] w-[350px] h-[205px] text-lg text-green">
             <div className="absolute top-[0px] left-[2px] w-[131px] h-[44px] overflow-hidden text-base">
               <img

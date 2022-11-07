@@ -37,7 +37,7 @@ const ContactUs = () => {
   }, [router]);
 
   return (
-    <div className="relative bg-white w-full h-[2068px] overflow-hidden text-left text-3xl text-white font-sf-pro-display">
+    <div className="relative bg-white w-full h-[2200px] overflow-hidden text-left text-3xl text-white font-sf-pro-display">
       <div className="absolute top-[80px] left-[0px] w-full  h-[453px] overflow-hidden text-4xl">
         <img
           className="absolute top-[0px] left-[0px] w-full  h-[960px] object-cover"
@@ -168,7 +168,7 @@ const ContactUs = () => {
           </div>
         </div>
       </div>
-      <div className="absolute bottom-[0px] left-[calc(50%_-_720px)] bg-gray-1100 w-[1440px] h-[365px] overflow-hidden text-sm">
+      <div className="absolute bottom-[0px]  bg-gray-1100 w-full  h-[365px] overflow-hidden text-sm">
         <div className="absolute top-[58px] left-[120px] w-[350px] h-[205px] text-lg text-green">
           <div className="absolute top-[0px] left-[2px] w-[131px] h-[44px] overflow-hidden text-base">
             <img

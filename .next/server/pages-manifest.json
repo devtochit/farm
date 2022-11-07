@@ -2,7 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/product-services": "pages/product-services.js",
+  "/": "pages/index.js",
   "/our-company": "pages/our-company.js",
-  "/": "pages/index.js"
+  "/product-services": "pages/product-services.js",
+  "/investors": "pages/investors.js",
+  "/contact-us": "pages/contact-us.js"
 }

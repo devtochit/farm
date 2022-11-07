@@ -41,60 +41,17 @@ const Investors = () => {
   }, [router]);
 
   return (
-    <div className="relative bg-white w-full h-[2423px] overflow-hidden text-left text-3xl text-gray-1000 font-sf-pro-display">
+    <div className=" h-full bg-white w-full overflow-hidden text-left text-3xl text-gray-1000 font-sf-pro-display">
       <div className="absolute top-[80px] left-[0px] w-full  h-[453px] overflow-hidden bg-[url(../public/frame-28@3x.png)] bg-cover bg-no-repeat bg-[top] text-4xl text-white">
         <div className="absolute top-[141px] left-[209px] font-medium inline-block w-[702px]">
           Your Funds, Working for you..
         </div>
       </div>
-      <div className="absolute top-[0px] left-[0px] w-[1440px] h-[80px] overflow-hidden text-base text-green">
-        <div className="absolute top-[18px] left-[120px] w-[131px] h-[44px] overflow-hidden">
-          <img
-            className="absolute h-[91.41%] w-[34.92%] top-[2.27%] right-[65.08%] bottom-[6.32%] left-[0%] max-w-full overflow-hidden max-h-full"
-            alt=""
-            src="../vector.svg"
-          />
-          <div className="absolute h-[88.64%] w-[48.85%] top-[2.27%] right-[9.92%] bottom-[9.09%] left-[41.22%]">
-            <div className="absolute h-[48.72%] w-full top-[0%] left-[0%] font-extrabold inline-block">
-              DFARM
-            </div>
-            <div className="absolute h-[46.15%] w-[67.19%] top-[53.85%] left-[0%] font-extrabold inline-block">
-              AGRI
-            </div>
-          </div>
-        </div>
-        <div className="absolute top-[21px] right-[120px] flex flex-row p-[8px] box-border items-start justify-start gap-[32px] text-gray-1000">
-          <div
-            className="relative inline-block cursor-pointer"
-            onClick={onHomeTextClick}
-          >
-            Home
-          </div>
-          <div
-            className="relative inline-block cursor-pointer"
-            onClick={onOurCompanyTextClick}
-          >
-            Our Company
-          </div>
-          <div
-            className="relative inline-block cursor-pointer"
-            onClick={onProductServicesClick}
-          >{`Product & Services`}</div>
-          <div
-            className="relative font-semibold font-inter text-green inline-block cursor-pointer"
-            onClick={onInvestorsTextClick}
-          >
-            Investors
-          </div>
-          <div
-            className="relative font-inter inline-block cursor-pointer"
-            onClick={onContactUsTextClick}
-          >
-            Contact Us
-          </div>
-        </div>
-      </div>
-      <div className="absolute bottom-[0px] left-[calc(50%_-_720px)] bg-gray-1100 w-[1440px] h-[365px] overflow-hidden text-sm text-white">
+
+
+
+
+      <div className="absolute top-[2000px]  bg-gray-1100 w-full  h-[365px] overflow-hidden text-sm text-white">
         <div className="absolute top-[58px] left-[120px] w-[350px] h-[205px] text-lg text-green">
           <div className="absolute top-[0px] left-[2px] w-[131px] h-[44px] overflow-hidden text-base">
             <img
@@ -175,6 +132,7 @@ const Investors = () => {
           © 2022 DFarm Agri. All rights Reserved
         </div>
       </div>
+
       <div className="absolute top-[621px] left-[333px] flex flex-col items-center justify-start gap-[24px] text-center">
         <b className="relative inline-block">Why Dfarm Agri?</b>
         <div className="relative text-sm leading-[30px] flex items-center justify-center w-[775px] h-[133px] shrink-0">

@@ -182,7 +182,7 @@ const Home = () => {
           src="../rectangle-5@2x.png"
         />
       </div>
-      <div className="absolute top-[3087px] left-[0px] flex flex-col items-center justify-start gap-[56px] text-3xl">
+      <div className="absolute top-[3087px] left-[0px] w-full flex flex-col items-center justify-start gap-[56px] text-3xl">
         <div className="relative font-semibold inline-block">
           What our clients say
         </div>
@@ -387,7 +387,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="absolute bottom-[0px] left-[calc(50%_-_720px)] bg-gray-1100 w-[1440px] h-[365px] overflow-hidden text-sm text-white">
+      <div className="absolute bottom-[0px]  bg-gray-1100 w-full  h-[365px] overflow-hidden text-sm text-white">
         <div className="absolute top-[58px] left-[120px] w-[350px] h-[205px] text-lg text-green">
           <div className="absolute top-[0px] left-[2px] w-[131px] h-[44px] overflow-hidden text-base">
             <img
