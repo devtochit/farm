@@ -14,9 +14,9 @@ function MyApp({ Component, pageProps }) {
     return <></>;
   } else {
 return(
-  <SiteLayout>
-<Component {...pageProps} />;
- </SiteLayout>
+  // <SiteLayout>
+<Component {...pageProps} />
+//  </SiteLayout>
 )}
 }
 
