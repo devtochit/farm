@@ -1,0 +1,76 @@
+.groupDiv1 {
+    margin-top: 300px;
+    display: flex;
+    flex-direction: row;
+ justify-content: center;
+ gap:150px;
+
+
+  }
+    .groupDiv2 {
+gap: 10px;
+display: flex;
+flex-direction:column;
+
+  }
+  .rectangleIcon,
+  .rectangleIcon1,
+  .rectangleIcon2,
+  .rectangleIcon3 {
+    left: 0;
+    border-radius: var(--br-md);
+    width: 265px;
+    height: 272px;
+    object-fit: cover;
+  }
+  .rectangleIcon1,
+  .rectangleIcon2,
+  .rectangleIcon3 {
+ margin: 15px 16px 17px 15px ;
+  }
+  .rectangleIcon2,
+  .rectangleIcon3 {
+    top: 395px;
+    left: 31px;
+  }
+  .rectangleIcon3 {
+    height: 271px;
+  }
+  .firstRow{
+    gap: 10px;
+  }
+  .frameDiv7 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .enjoyOurRichAndFreshFarm {
+    position: relative;
+    line-height: 40px;
+    font-weight: 600;
+    display: inline-block;
+    width: 460px;
+  }
+  .loremIpsumDolorSitAmetCo1 {
+    position: relative;
+    font-size: var(--font-size-base);
+    line-height: 30px;
+    display: inline-block;
+    width: 488px;
+    height: 249px;
+    flex-shrink: 0;
+  }
+  @media screen and (max-width: 768px) {
+    .groupDiv1 {
+ gap:50px;
+        height: 667px;
+        display: flex;
+        flex-direction: column ;
+        justify-content: center;
+         align-items: center;
+      }
+  }
+

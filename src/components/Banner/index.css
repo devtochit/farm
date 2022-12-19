@@ -1,0 +1,91 @@
+
+  .heroSection {
+    margin-top: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* width: 1440px; */
+    height: 500px;
+    text-align: center;
+    font-size: 80px;
+    font-family: var(--font-inter);
+
+  }
+  .highAngleFarmlandView1Icon {
+    border-radius: 350px 350px 0px 0px;
+width: fit-content;
+    height: 560px;
+    margin-top: 40px;
+
+    object-fit: cover;
+  }
+
+  .frameDiv2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: flex-start; */
+    gap: var(--gap-md);
+
+  }
+ .localNaturalAndLongLasti {
+    position: relative;
+    line-height: 110.02%;
+    display: inline-block;
+    width: 678px;
+    height: 200px;
+  }
+   .longLasting {
+    color: #04B356;
+  }
+  .loremIpsumDolorSitAmetCo {
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    color: #484747;
+    display: inline-block;
+    height: 73px;
+    margin-top: 41px;
+
+    flex-shrink: 0;
+width: 596px;
+height: 73px;
+margin-bottom: 25px;
+
+  }
+  @media screen and (max-width: 768px) {
+    .highAngleFarmlandView1Icon {
+
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+      }
+
+      .frameDiv2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* justify-content: flex-start; */
+        gap: var(--gap-md);
+      }
+     .localNaturalAndLongLasti {
+        position: relative;
+        line-height: 110.02%;
+        display: inline-block;
+
+      }
+       .longLasting {
+        color: var(--color-green);
+      }
+      .loremIpsumDolorSitAmetCo {
+        /* position: relative; */
+        font-size: 18px;
+        font-weight: 500;
+        color: #484747;
+        display: inline-block;
+        width: 600px;
+        height: 73px;
+        flex-shrink: 0;
+      }
+
+  }

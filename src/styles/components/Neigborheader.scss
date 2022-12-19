@@ -1,0 +1,10 @@
+.neighborheader {
+    background-image: url('https://i.ibb.co/ck0G5FW/frame-281-3x.png');
+    height: 100vh;
+    background-size: cover;
+    padding: 30px 20px;
+
+    @media (min-width: 1000px) {
+        padding: 30px 60px;
+    }
+}
