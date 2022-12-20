@@ -1,68 +1,77 @@
 .frameDiv23 {
-    display: flex;
-    border-radius: var(--br-sm);
-    background-color: var(--color-green);
-    height: 406px;
-    overflow: hidden;
-    text-align: center;
-    font-size: 42px;
-    width: 1200px;
-    flex-direction: row-reverse;
-    margin: 100px 0 40px 290px;
-    color: var(--color-gray-100);
-  }
-  .groupIcon {
-    width: 705.67px;
-    height: 406px;
-  }
-  .frameDiv24,
-  .frameDiv25 {
+  display: flex;
+  border-radius: var(--br-sm);
+  background-color: var(--color-green);
+  height: 406px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 42px;
+  width: 1200px;
+  flex-direction: row-reverse;
+  margin: 100px 0 40px 100px;
+  color: var(--color-gray-100);
+}
 
-position:absolute ;
+.groupIcon {
+  width: 705.67px;
+  height: 406px;
 }
-  .frameDiv25 {
-    border-radius: var(--br-sm);
-    background-color: var(--color-gray-100);
-    flex-direction: row;
-    padding: var(--padding-xs) var(--padding-xl);
-    box-sizing: border-box;
-    align-items: flex-start;
-    cursor: pointer;
-    margin: 9px 221px;
-  }
-  .frameDiv24 {
-    flex-direction: column;
-    align-items: center;
-    gap: var(--gap-xs);
-  }
-  .buyFromDFarmAgriTodayAnd {
-    /* font-size: var(--font-size-lg); */
-  }
-  .buyFromDFarmAgriTodayAnd {
-    position: relative;
-    display: inline-block;
-    width: 788px;
-    height: 114px;
-    flex-shrink: 0;
-margin: 171px 190px 0 0;
+
+.frameDiv24,
+.frameDiv25 {
+
+  position: absolute;
 }
-  .contactUsToday {
-    cursor: pointer;
-    border: 0;
-    padding: 0;
-    background-color: transparent;
-    position: relative;
-    font-size: var(--font-size-base);
-    line-height: 30px;
-    font-weight: 700;
-    font-family: var(--font-sf-pro-display);
-    color: var(--color-green);
-    text-align: center;
-    display: inline-block;
-  }
-  .contactUsToday:hover {
-    color: #2a352f;
-  }
+
+.frameDiv25 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  cursor: pointer;
+  margin: 9px 221px;
+}
+
+.frameDiv24 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-xs);
+}
+
+.buyFromDFarmAgriTodayAnd {
+  /* font-size: var(--font-size-lg); */
+}
+
+.buyFromDFarmAgriTodayAnd {
+  position: relative;
+  display: inline-block;
+  width: 788px;
+  height: 114px;
+  flex-shrink: 0;
+  margin: 171px 190px 0 0;
+}
+
+.contactUsToday {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-weight: 700;
+  font-family: var(--font-sf-pro-display);
+  color: var(--color-green);
+  text-align: center;
+  display: inline-block;
+}
+
+.contactUsToday:hover {
+  color: #2a352f;
+}
+
 @media screen and (max-width: 768px) {
   .frameDiv23 {
     display: flex;
@@ -73,27 +82,29 @@ margin: 171px 190px 0 0;
     overflow: hidden;
     text-align: center;
     font-size: 20px;
-    width:100%;
+    width: 100%;
     flex-direction: row-reverse;
     margin: 12px 40px 19px 0;
     color: var(--color-gray-100);
   }
+
   .groupIcon {
     width: 705.67px;
     height: 406px;
   }
+
   .frameDiv24 {
     flex-direction: column;
     align-items: center;
     gap: var(--gap-xs);
   }
+
   .buyFromDFarmAgriTodayAnd {
     position: relative;
     display: inline-block;
     width: 74%;
     height: 114px;
     flex-shrink: 0;
-margin: 180px 90px 0 0;
+    margin: 180px 90px 0 0;
+  }
 }
-}
-

@@ -4,8 +4,8 @@ import './Search.css'
 function Search() {
   return (
     <div className='container'>
-        <input/>
-        <button> Search</button>
+        <input placeholder='search for more products '/>
+        <button className=' btn-search'> Search</button>
     </div>
   )
 }

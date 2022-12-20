@@ -1,6 +1,6 @@
-.frameDiv26{
-  margin :100px  0px 200px 400px ;
-    width: 935px;
+.frameDiv26 {
+  margin: 100px 0px 200px 250px;
+  width: 935px;
 }
 
 .frameDiv26,
@@ -11,30 +11,96 @@
 }
 
 .pyxusBuildsUpon150YearsOf {
-    display: flex;
-    align-items: center;
-    font-weight: 500;
-    justify-content: center;
-    line-height: 60px;
-    font-size: var( --font-size-xl);
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  justify-content: center;
+  line-height: 60px;
+  font-size: var(--font-size-xl);
+}
+
+.frameDiv27 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 196px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-green);
+  font-family: var(--font-sf-pro-display);
+}
+
+.frameDiv28,
+.frameDiv31 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+
+.frameDiv29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+
+.b,
+.lineDiv {
+  position: relative;
+}
+
+.b {
+  display: flex;
+}
+
+.lineDiv {
+  border-top: 2px solid var(--color-green);
+  box-sizing: border-box;
+  width: 114px;
+  height: 2px;
+  flex-shrink: 0;
+}
+
+.yearsOfFarmingExperience {
+  position: relative;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+  width: 181px;
+}
+
+.frameDiv31 {
+  gap: var(--gap-3xs);
+}
+
+@media screen and (max-width: 768px) {
+  .frameDiv26 {
+    margin-top: 20px;
+    width: auto;
+    margin-left: 0px;
+    padding: 95px;
   }
 
   .frameDiv27 {
-    flex-direction: row;
-    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
     gap: 196px;
     font-size: var(--font-size-6xl);
     color: var(--color-green);
     font-family: var(--font-sf-pro-display);
   }
+
   .frameDiv28,
   .frameDiv31 {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
     gap: var(--gap-xs);
   }
+
   .frameDiv29 {
     display: flex;
     flex-direction: column;
@@ -42,13 +108,16 @@
     justify-content: flex-start;
     gap: var(--gap-3xs);
   }
+
   .b,
   .lineDiv {
     position: relative;
   }
+
   .b {
-    display: flex;
+    display: inline-block;
   }
+
   .lineDiv {
     border-top: 2px solid var(--color-green);
     box-sizing: border-box;
@@ -56,73 +125,18 @@
     height: 2px;
     flex-shrink: 0;
   }
+
   .yearsOfFarmingExperience {
     position: relative;
     font-size: var(--font-size-lg);
     color: var(--color-gray-300);
-    text-align: left;
+    text-align: center;
     display: inline-block;
     width: 181px;
   }
+
   .frameDiv31 {
     gap: var(--gap-3xs);
   }
 
-  @media screen and (max-width: 768px) {
-    .frameDiv26{
-        margin-top:20px;
-         width: auto;
-          margin-left: 0px;
-          padding:95px;
-    }
-   .frameDiv27 {
-        flex-direction: column;
-        align-items:  center;
-        gap: 196px;
-        font-size: var(--font-size-6xl);
-        color: var(--color-green);
-        font-family: var(--font-sf-pro-display);
-      }
-      .frameDiv28,
-      .frameDiv31 {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: var(--gap-xs);
-      }
-      .frameDiv29 {
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        justify-content: flex-start;
-        gap: var(--gap-3xs);
-      }
-      .b,
-      .lineDiv {
-        position: relative;
-      }
-      .b {
-        display: inline-block;
-      }
-      .lineDiv {
-        border-top: 2px solid var(--color-green);
-        box-sizing: border-box;
-        width: 114px;
-        height: 2px;
-        flex-shrink: 0;
-      }
-      .yearsOfFarmingExperience {
-        position: relative;
-        font-size: var(--font-size-lg);
-        color: var(--color-gray-300);
-        text-align: center;
-        display: inline-block;
-        width: 181px;
-      }
-      .frameDiv31 {
-        gap: var(--gap-3xs);
-      }
-
-  }
-
+}

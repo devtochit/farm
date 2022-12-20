@@ -41,7 +41,7 @@ function Navbar() {
         <Link to="/product" >
           <li> Product& Services</li>
         </Link>
-        <Link to="/investors" >
+        <Link to="/invest" >
           <li> Investors</li>
         </Link>
         <Link to="/contact" >
@@ -61,17 +61,17 @@ function Navbar() {
 
       <div className={nav ? "mobile-menu active" : "mobile-menu"}>
         <ul className="mobile-nav">
-          <a href="/">
-            <li>Home</li>
+          <a href="/about">
+          <li>Our Company</li>
           </a>
-          <Link to="/amenties" onClick={handleNav}>
-            <li>Amenities</li>
+          <Link to="/product" onClick={handleNav}>
+          <li> Product& Services</li>
           </Link>
-          <Link to="/neighbourhood"  onClick={handleNav}>
-            <li>Neighbourhood</li>
+          <Link to="/invest"  onClick={handleNav}>
+          <li> Investors</li>
           </Link>
-          <Link to="/team"  onClick={handleNav}>
-            <li>The Team</li>
+          <Link to="/contact"  onClick={handleNav}>
+          <li> Contact Us </li>
           </Link>
           {/* <Link to="/residence" onClick={handleNav} > */}
             {/* <li> My Residences</li> */}

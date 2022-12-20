@@ -1,0 +1,39 @@
+.container_{
+    display: flex;
+    flex-direction:column ;
+    justify-content:center ;
+    padding: 50px;
+    margin: 100px 0px 10px 0px;
+}
+
+.why_text{
+text-align: center;
+}
+
+@media screen and (max-width: 680px) {
+
+    container_{
+        display: flex;
+        flex-direction:column ;
+        justify-content:center ;
+        width: 0px;
+        margin: 0px 0px 10px 0px;
+        padding: 50px;
+
+
+    }
+
+    .why_text{
+    text-align: center;
+    }
+}
+@media (min-width: 400px) {
+    container{
+        display: flex;
+        flex-direction:column ;
+        justify-content:center ;
+        width: 0px;
+        margin: 0px 0px 10px 0px;
+
+    }
+}

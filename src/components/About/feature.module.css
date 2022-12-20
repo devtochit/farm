@@ -1,46 +1,47 @@
 .frameDiv8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-4xl);
+  width: 1200px;
+  margin: 150px 0px 50px 150px;
+}
+
+.valuePage {
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: center;
+  background: #c9c5bc;
+  width: 100%px;
+  height: 400px;
+  align-items: center;
+  padding: 10px 40px 0px 40px;
+}
+
+@media screen and (max-width: 768px) {
+  .frameDiv8 {
+    margin-top: 150px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: var(--gap-4xl);
-    width: 1200px;
-    margin: 150px 0px 50px  350px;
-  }
-  .valuePage{
-margin-bottom: 60px;
-     display: flex;
-     justify-content: center;
-     background: #c9c5bc;
-     width: 100%px;
-     height: 400px;
-     align-items: center;
-     padding: 10px 40px 0px 40px;
-  }
-
-  @media screen and (max-width: 768px) {
-    .frameDiv8 {
-        margin-top: 150px;
-       display: flex;
-       flex-direction: column;
-       align-items: center;
-       justify-content: center;
-       gap: var(--gap-4xl);
-       margin-left:18px;
-       width: 100%          ;
-     }
-
-
-     .valuePage{
-      margin-bottom: 60px;
-     display: flex;
-     flex-direction: column;
-     justify-content: space-around;
-     width: 100%;
-     height: 400px;
-     align-items: center;
-     padding: 10px 40px 0px 40px;
+    margin-left: 18px;
+    width: 100%;
   }
 
 
+  .valuePage {
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    padding: 10px 40px 0px 40px;
   }
+
+
+}
