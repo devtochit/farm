@@ -13,7 +13,8 @@ function hero() {
           </b>
           <div
             className='loremIpsumDolorSitAmetCo'
-          >{`Welcome to Dfarm Agri, home to Africa’s natural flavor and taste for farm products. We help our customers meet their demands for sustainable and healthy agro products. `}</div>
+          >
+            <p className=' feature-slide-description'> Welcome to Dfarm Agri, home to Africa’s natural flavor and taste for farm products. We help our customers meet their demands for sustainable and healthy agro products.</p> </div>
         </div>
          <div className='frameDiv1'>
           <img

@@ -46,20 +46,19 @@ width: fit-content;
     display: inline-block;
     height: 73px;
     margin-top: 41px;
-
     flex-shrink: 0;
-width: 596px;
-height: 73px;
-margin-bottom: 25px;
+    width: 596px;
+    height: 73px;
+    margin-bottom: 25px;
 
   }
   @media screen and (max-width: 768px) {
+
     .heroSection {
       margin-top: 150px;
       display: flex;
       flex-direction: column;
       justify-content: center;
-      /* width: 1440px; */
       height: 500px;
       text-align: center;
       font-size: 50px;
@@ -85,11 +84,12 @@ margin-bottom: 25px;
         position: relative;
         line-height: 110.02%;
         display: inline-block;
+        padding: 100px;
 
       }
        .longLasting {
         color: var(--color-green);
-        font-size: 14px;
+        font-size: 33px;
 
       }
       .loremIpsumDolorSitAmetCo {
@@ -100,9 +100,23 @@ margin-bottom: 25px;
         display: inline-block;
         height: 73px;
         padding: 30px;
-        margin-bottom: 15px;
-
         flex-shrink: 0;
+        padding: 65px;
+        margin-bottom: 0px;
+
       }
 
+  }
+  @media screen and (max-width: 400px) {
+    .localNaturalAndLongLasti {
+      position: relative;
+      line-height: 110.02%;
+      display: inline-block;
+      padding: 130px;
+
+    }
+    .loremIpsumDolorSitAmetCo {
+      /* position: relative; */
+      padding: 120px;
+    }
   }
