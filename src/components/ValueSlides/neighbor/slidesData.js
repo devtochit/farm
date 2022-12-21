@@ -49,7 +49,7 @@ export const slidesData = [
     imageURL: Goat,
   },
   {
-    title: "Fish",
+    title: "Plantain",
     description:
       ' ',
     imageURL: 'https://i.ibb.co/rvdwjTR/photo-1635013973782-d6577fc8cb0c.png',
