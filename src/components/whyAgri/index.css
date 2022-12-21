@@ -3,16 +3,18 @@
     flex-direction:column ;
     justify-content:center ;
     padding: 50px;
-    margin: 100px 0px 10px 0px;
+    margin: 100px 0px 50px 0px;
 }
 
 .why_text{
 text-align: center;
+margin:10px  0px 10px 10px;
 }
 
 @media screen and (max-width: 680px) {
 
     container_{
+
         display: flex;
         flex-direction:column ;
         justify-content:center ;

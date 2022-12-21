@@ -56,7 +56,7 @@ function ValueSlides() {
     <>
       <div
         ref={featureSliderRef}
-        className="feature-slides-container hide-on-mobile"
+        className="feature-slides-container_ hide-on-mobile"
         name="why-us"
       >
         <div className="feature-slides-left">

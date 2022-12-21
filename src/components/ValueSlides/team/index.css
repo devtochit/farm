@@ -1,10 +1,11 @@
-.feature-slides-container {
+.feature-slides-container_ {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding: 100px 80px;
+  /* padding: 100px 80px; */
   background: #DBD5C9;
   background: -webkit-linear-gradient(to top, #ecece8, #c7c7c1);
   background: linear-gradient(to top, #d4d4d1, #e7e7e2);
+  margin-top: 80px;
 }
 
 .feature-slide {

@@ -1,18 +1,11 @@
 .investmentHeader {
     background-image: url('https://i.ibb.co/5KWM2fX/smilew.png');
-    // height: 100vh;
+    height: 70vh;
     background-size: cover;
     padding: 30px 20px;
-
+    background-repeat: no-repeat;
 
     @media (min-width: 1000px) {
         padding: 30px 60px;
-    }
-
-    @media (min-width: 400px) {
-        padding: 0px 0px;
-        height: 0vh;
-        background-position: center;
-
     }
 }

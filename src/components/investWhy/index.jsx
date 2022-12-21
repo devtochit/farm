@@ -3,8 +3,9 @@ import './index.css';
 
 function index() {
   return (
-    <div className=' investWhy'>
- <img src='https://i.ibb.co/0276rx4/Frame-91.png'/>
+    <div className='investWhy'>
+    <h2 className=' invest_text'>Our Process </h2>
+ <img src='https://i.ibb.co/MMLGnTq/Frame-91-1.png'/>
     </div>
   )
 }

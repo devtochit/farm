@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../styles/hero/Hero.scss';
+import '../../styles/hero/amenty.scss';
 
 const InvestmentPhrase = () => {
     return (

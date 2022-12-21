@@ -3,4 +3,20 @@ display: flex;
 flex-direction: column;
 width: fit-content;
 justify-content: center;
+margin:0px 0px 0px  250px;
+gap:20px;
+}
+
+.invest_text{
+    text-align: center;
+    margin: 100px 0px 40px 0px;
+}
+
+@media screen and (max-width: 680px) {
+
+    .investWhy{
+        margin:0px 0px 40px  0px;
+        gap:0px ;
+        }
+
 }
