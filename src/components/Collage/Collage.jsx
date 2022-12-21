@@ -126,7 +126,7 @@ function Collage() {
         </div>
 
         <div className="hero-element">
-          <imgimgimg
+          <img
             src={watermellon}
             alt="Talent Media"
             className="collage-element-right2"
