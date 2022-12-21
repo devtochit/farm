@@ -32,7 +32,9 @@ function Navbar() {
   return (
     <div name="home" className={color ? "navbar navbar-bg" : "navbar"}>
       <div className="logo">
-  <img src={ logo}/>
+      <a href="/about">
+      <img src={ logo}/>
+        </a>
       </div>
       <ul className="nav-menu">
         <a href="/about">
