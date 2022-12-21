@@ -119,14 +119,14 @@ function Collage() {
       <div className="right-column">
         <div className="hero-element">
           <img
-            src={image5}
+            src='https://i.ibb.co/rvdwjTR/photo-1635013973782-d6577fc8cb0c.png'
             alt="Talent Media"
             className="collage-element-right1"
           />
         </div>
 
         <div className="hero-element">
-          <img
+          <imgimgimg
             src={watermellon}
             alt="Talent Media"
             className="collage-element-right2"

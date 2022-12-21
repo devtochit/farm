@@ -1,11 +1,11 @@
-import  Cows from "../../../assets/Images/cows.png";
+import Cows from "../../../assets/Images/cows.png";
 import Groundnut from "../../../assets/Images/groundnut.jpg";
 import Palm from "../../../assets/Images/palm.png";
 import Pigs from "../../../assets/Images/pigs.png";
 import Snail from "../../../assets/Images/snail.avif";
 import Goat from "../../../assets/Images/goat.avif";
-import Fish from "../../../assets/Images/fish.avif";
-import  Watermelon from "../../../assets/Images/watermellon.jpg";
+import Plantain from 'https://i.ibb.co/rvdwjTR/photo-1635013973782-d6577fc8cb0c.png';
+import Watermelon from "../../../assets/Images/watermellon.jpg";
 
 
 
@@ -16,7 +16,7 @@ export const slidesData = [
     title: "COWS",
     description:
       " ",
-    imageURL:Cows,
+    imageURL: Cows,
   },
   {
     title: "Groundnut",
@@ -49,10 +49,10 @@ export const slidesData = [
     imageURL: Goat,
   },
   {
-    title: "Fish",
+    title: "Plantain ",
     description:
       ' ',
-    imageURL: Fish,
+    imageURL: Plantain,
   },
   {
     title: "Watermelon",
