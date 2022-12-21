@@ -4,8 +4,6 @@ import Palm from "../../../assets/Images/palm.png";
 import Pigs from "../../../assets/Images/pigs.png";
 import Snail from "../../../assets/Images/snail.avif";
 import Goat from "../../../assets/Images/goat.avif";
-// import Fish from "../../../assets/Images/fish.avif";
-import Watermelon from "../../../assets/Images/watermellon.jpg";
 
 
 
@@ -58,6 +56,6 @@ export const slidesData = [
     title: "Watermelon",
     description:
       ' ',
-    imageURL: Watermelon,
+    imageURL: 'https://i.ibb.co/KzNdx7R/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.png',
   },
 ];

@@ -5,7 +5,6 @@ import image2 from "../../assets/pigs.png";
 import image3 from "../../assets/goat.png";
 import image4 from "../../assets/snail.png";
 import image5 from "../../assets/fish.png";
-import watermellon from '../../assets/watermellon.png'
 import { gsap } from "gsap";
 
 function Collage() {
@@ -127,7 +126,7 @@ function Collage() {
 
         <div className="hero-element">
           <img
-            src={watermellon}
+            src=' https://i.ibb.co/KzNdx7R/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.png'
             alt="Talent Media"
             className="collage-element-right2"
           />
