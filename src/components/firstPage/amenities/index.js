@@ -3,35 +3,19 @@ import ScrollTrigger from "gsap/ScrollTrigger";
 import React from "react";
 import { useRef } from "react";
 import { useLayoutEffect } from "react";
-import AmenityContainer from "../../HeaderContainer/amentieContainer";
+import AboutContainer from "../../HeaderContainer/Aboutheader";
 
 
 
 
-const Amenties = () => {
-  // gsap.registerPlugin(ScrollTrigger);
-  // const sectionRef = useRef(null);
+const About = () => {
 
-  // useLayoutEffect(() => {
-  //   let Elem = sectionRef.current;
-
-  //   let trigger = ScrollTrigger.create({
-  //     trigger: Elem,
-  //     start: "top top",
-  //     pin: true,
-  //     pinSpacing: false,
-  //   });
-
-  //   return () => {
-  //     if (trigger) trigger.kill();
-  //   };
-  // }, []);
 
   return (
     <div >
-             <AmenityContainer/>
+      <AboutContainer />
     </div>
   );
 };
 
-export default Amenties;
+export default About;

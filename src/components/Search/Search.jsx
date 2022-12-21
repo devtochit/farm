@@ -3,7 +3,7 @@ import './Search.css'
 
 function Search() {
   return (
-    <div className='container'>
+    <div className='contain'>
         <input placeholder='search for more products '/>
         <button className=' btn-search'> Search</button>
     </div>

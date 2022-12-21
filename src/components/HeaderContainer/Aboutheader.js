@@ -1,12 +1,12 @@
 import React from 'react';
-import AmenityPhrase from '../HeaderPhrase/amentie';
+import AmenityPhrase from '../HeaderPhrase/About';
 import { Container } from '../container';
-import '../../styles/components/Amenitieheader.scss';
+import '../../styles/components/Aboutheader.scss';
 
 
 const AmenityContainer = () => {
     return (
-        <header className='amenityheader'>
+        <header className='aboutheader'>
             <Container>
                 <AmenityPhrase />
             </Container>
