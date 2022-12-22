@@ -1,8 +1,10 @@
 .neighborheader {
     background-image: url('https://i.ibb.co/ck0G5FW/frame-281-3x.png');
-    height: 100vh;
+    height: 70vh;
     background-size: cover;
     padding: 30px 20px;
+    background-repeat: no-repeat;
+
 
     @media (min-width: 1000px) {
         padding: 30px 60px;
