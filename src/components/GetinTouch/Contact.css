@@ -2,9 +2,9 @@
   padding: 200px 120px;
   display: flex;
   flex-direction: column;
-  background: #c2e59c;
+  /* background: #c2e59c;
   background: -webkit-linear-gradient(to bottom, #64b3f4, #c2e59c);
-  background: linear-gradient(to bottom, #64b3f4, #c2e59c);
+  background: linear-gradient(to bottom, #64b3f4, #c2e59c); */
 }
 
 .contact__wrapper {
@@ -22,7 +22,7 @@
 }
 
 .contact__left p {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .contact-line {
@@ -33,13 +33,13 @@
 }
 
 .contact__right h2 {
-  font-size: 200px;
+  font-size: 100px;
 }
 
 .contact__info h2,
 .contact__info p,
 .further__inquires h2 {
-  font-size: 60px;
+  font-size: 40px;
 }
 
 .contact__info {
@@ -59,7 +59,7 @@
 }
 
 .further__inquires p {
-  font-size: 60px;
+  font-size: 40px;
   margin-top: 30px;
 }
 

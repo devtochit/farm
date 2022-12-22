@@ -11,7 +11,7 @@ function Home() {
   return (
     <div name=" contact">
       <Banner />
-
+    <Contact />
       <Footer />
     </div>
   );

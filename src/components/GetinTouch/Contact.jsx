@@ -31,10 +31,10 @@ function Contact() {
       <div className="contact__info" data-aos="fade-down" data-aos-delay="350">
         <h2>Business Inquires</h2>
         <h2>
-        Olugbenga Adejuwon <br />/ Director
+            name <br />/ Director
         </h2>
-        <p>+23424456789</p>
-        <p>adam@chiso.inc</p>
+        <p>    +234 908 022 4402</p>
+        <p>  Dfarmagri@gmail.com</p>
       </div>
       <div
         className="further__inquires"
@@ -42,7 +42,7 @@ function Contact() {
         data-aos-delay="400"
       >
         <h2>General Inquires</h2>
-        <p>wecare@chiso.inc</p>
+        <p>Dfarmagri@gmail.com</p>
       </div>
     </div>
   );
