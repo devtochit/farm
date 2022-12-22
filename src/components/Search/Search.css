@@ -29,4 +29,7 @@ input {
     .container {
         padding: 50px;
     }
+    input {
+        width: 312px;
+     }
 }

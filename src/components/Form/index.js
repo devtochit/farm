@@ -42,7 +42,7 @@ const SearchDirectoryPage = () => {
                         <br />
                         <div className="label">Last Name: </div>
                         <input
-                            size="40"
+                            size="20"
                             type="text"
                             id="lname"
                             value={contactLastName}
@@ -52,7 +52,7 @@ const SearchDirectoryPage = () => {
                         <div className="label">Email Address: </div>
 
                         <input
-                            size="40"
+                            size="20"
                             type="text"
                             id="email"
                             value={contactEmail}

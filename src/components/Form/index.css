@@ -31,3 +31,14 @@
   .label {
     margin-top: 20px;
   }
+  @media screen and (max-width: 680px) {
+    .SubmitForm {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      margin-top: 15px;
+      width: fit-content;
+
+    }
+
+  }
