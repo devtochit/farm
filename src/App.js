@@ -7,7 +7,7 @@ import Home from "./container/Home/index";
 import About from "./container/About/index";
 import Products from './container/Products/index'
 import Investment from './container/Investment/index'
-// import Residences from './container/Residence/index'
+import Contact from './container/Contact/index'
 import Navbar from "./components/Navbar/Navbar";
 import Cursor from "./components/CustomCursor/Cursor";
 import Swiper from './components/contentSwiper/index'
@@ -25,7 +25,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/product" element={<Products />} />
           <Route path="/invest" element={< Investment />} />
-          {/* <Route path="/residence" element={<Residences />} /> */}
+          <Route path="/contact" element={<Contact />} />
 
           <Route exact path="*" element={<Error404 />} />
         </Routes>

@@ -1,14 +1,14 @@
 import React from 'react';
-import Hero from '../components/herosection';
+import ContactPhrase from '../../components/HeaderPhrase/ContactUs';
 import { Container } from '../container';
-import '../styles/header.scss';
+import '../../styles/components/constactHeader.scss';
 
 
 const Header = () => {
     return (
-        <header>
+        <header className='contactheader'>
             <Container>
-                <Hero />
+                <ContactPhrase />
             </Container>
         </header>
     )
