@@ -23,9 +23,9 @@
 
 .hero-collage {
   display: grid;
-  grid-template-columns: 25% 25% 25%;
+  grid-template-columns: 20% 20% 20%;
   max-width: 95%;
-  gap: 50px ;
+  gap: 40px ;
   /* margin: 0 auto; */
   margin-bottom: 10vh;
   align-items: center;
