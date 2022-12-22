@@ -1,0 +1,33 @@
+
+
+  .SubmitForm {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 15px;
+    width: 584px;
+  }
+
+  .Social {
+    margin-left: 14px;
+  }
+
+  .IconSocial {
+    font-size: 35px;
+  }
+
+  .TextForm {
+    width: 85%;
+  }
+
+  .Icon {
+    font-size: 30px;
+  }
+
+  .List {
+    margin-top: 20px;
+  }
+
+  .label {
+    margin-top: 20px;
+  }
