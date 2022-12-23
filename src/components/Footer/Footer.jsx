@@ -44,7 +44,7 @@ function Footer() {
             </p>
           </div>
           <div className="footer-time">
-            <h3>{getCurrentDate}</h3>
+
           </div>
         </div>
         <div className="footer-end">
