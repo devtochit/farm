@@ -50,12 +50,12 @@ export const slidesData = [
     title: "Plantain",
     description:
       ' ',
-    imageURL: 'https://i.ibb.co/rvdwjTR/photo-1635013973782-d6577fc8cb0c.png',
+    imageURL: 'https://i.ibb.co/JyB9XHS/photo-1635013973782-d6577fc8cb0c-1.png',
   },
   {
     title: "Watermelon",
     description:
       ' ',
-    imageURL: 'https://i.ibb.co/KzNdx7R/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.png',
+    imageURL: 'https://i.ibb.co/mH0rpJ8/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.jpg,
   },
 ];
