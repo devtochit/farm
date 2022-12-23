@@ -56,6 +56,6 @@ export const slidesData = [
     title: "Watermelon",
     description:
       ' ',
-    imageURL: 'https://i.ibb.co/mH0rpJ8/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.jpg,
+    imageURL: 'https://i.ibb.co/mH0rpJ8/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.jpg',
   },
 ];
