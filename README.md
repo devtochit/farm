@@ -1,4 +1,4 @@
- # CHIsu - A Brand Management Agency.
+ # DFarm -  Agency.
 
 This project's major objective was to showcase the agency's next generation of see its success in the entertainment industry.
 ## Table of contents
