@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.61f3d7d0.css",
-    "main.js": "/static/js/main.ac3b27dc.js",
+    "main.css": "/static/css/main.3bc93dcb.css",
+    "main.js": "/static/js/main.8f008db7.js",
     "static/media/real.mp4": "/static/media/real.f53cc2d8c5868357cd14.mp4",
-    "static/media/Skate - 49791.mp4": "/static/media/Skate - 49791.79b13830ad762a9ccb26.mp4",
     "static/media/image19.jpg": "/static/media/image19.f89c64c829e177206ff9.jpg",
     "static/media/image13.jpg": "/static/media/image13.d870a3bb2107958ec37d.jpg",
-    "static/media/frame-28.png": "/static/media/frame-28.f933a7737ddc28578941.png",
     "static/media/image5.jpg": "/static/media/image5.468d871b42695286a548.jpg",
     "static/media/palm.png": "/static/media/palm.589231cb8c37ec437b2b.png",
-    "static/media/watermellon.png": "/static/media/watermellon.c8e2455c88831827112c.png",
     "static/media/image17.jpg": "/static/media/image17.55b8e5886912ce2d1822.jpg",
     "static/media/carrybasket.png": "/static/media/carrybasket.a2e2d9761d2cd472e0e9.png",
     "static/media/pigs.png": "/static/media/pigs.fac558a4b396de1d7a07.png",
@@ -20,7 +17,6 @@
     "static/media/goat.png": "/static/media/goat.90cf51c61b31d401f19d.png",
     "static/media/team-slideshow-2-min-545837.jpg": "/static/media/team-slideshow-2-min-545837.2c4c687ebf488bbc01b5.jpg",
     "static/media/team-slideshow-1-min-511736.jpg": "/static/media/team-slideshow-1-min-511736.edfbd4bb2491bab093e6.jpg",
-    "static/media/watermellon.jpg": "/static/media/watermellon.198b9dd623f57f2f44dc.jpg",
     "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
     "static/media/SourceSansPro-Light.ttf": "/static/media/SourceSansPro-Light.9bbfd7cb5e722de4b9f4.ttf",
     "static/media/southbank-1-368865.jpeg": "/static/media/southbank-1-368865.69e8212c483136b91691.jpeg",
@@ -28,7 +24,6 @@
     "static/media/team-14-lyons-place-10289.jpg": "/static/media/team-14-lyons-place-10289.b10d214b49be97ff89ce.jpg",
     "static/media/snail.avif": "/static/media/snail.727340e0dc39adc3119d.avif",
     "static/media/ZephyrRegular.svg": "/static/media/ZephyrRegular.bc92a5bb11f43512b351.svg",
-    "static/media/fish.avif": "/static/media/fish.098f363882af311bb839.avif",
     "static/media/goat.avif": "/static/media/goat.a11c9bb8c5805a656121.avif",
     "static/media/team-2-672231.jpg": "/static/media/team-2-672231.0a44cb6096c45bf0cff7.jpg",
     "static/media/image15.jpg": "/static/media/image15.6fd984996bdd8881c071.jpg",
@@ -40,7 +35,6 @@
     "static/media/image11.jpg": "/static/media/image11.d9c7028bf4256e76ca58.jpg",
     "static/media/groundnut.jpg": "/static/media/groundnut.6669cab1185dfb2fa07b.jpg",
     "static/media/image8.jpg": "/static/media/image8.81443cd7a2a60079bf44.jpg",
-    "static/media/afe3e414-aa1a-41e4-af5f-c88c92b9ad60.jpeg": "/static/media/afe3e414-aa1a-41e4-af5f-c88c92b9ad60.0ced88ccb5ef9bd70b70.jpeg",
     "static/media/ZephyrRegular.eot": "/static/media/ZephyrRegular.01202de05e6bf82f135d.eot",
     "static/media/ZephyrRegular.ttf": "/static/media/ZephyrRegular.1b3a2249d5d8d6dab9fb.ttf",
     "static/media/ZephyrRegular.woff": "/static/media/ZephyrRegular.5a1cf012948d60e23407.woff",
@@ -56,11 +50,11 @@
     "index.html": "/index.html",
     "static/media/right-bracket.svg": "/static/media/right-bracket.4c75fe064ee50d33b738.svg",
     "static/media/left-bracket.svg": "/static/media/left-bracket.cf50c55b408c8fb4e7ce.svg",
-    "main.61f3d7d0.css.map": "/static/css/main.61f3d7d0.css.map",
-    "main.ac3b27dc.js.map": "/static/js/main.ac3b27dc.js.map"
+    "main.3bc93dcb.css.map": "/static/css/main.3bc93dcb.css.map",
+    "main.8f008db7.js.map": "/static/js/main.8f008db7.js.map"
   },
   "entrypoints": [
-    "static/css/main.61f3d7d0.css",
-    "static/js/main.ac3b27dc.js"
+    "static/css/main.3bc93dcb.css",
+    "static/js/main.8f008db7.js"
   ]
 }

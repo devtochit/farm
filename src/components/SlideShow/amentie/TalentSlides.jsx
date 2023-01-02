@@ -16,7 +16,7 @@ function TalentSlides() {
       <div data-aos="fade-down" data-aos-easing="ease-in-sine">
         {/* <h3>Our works</h3> */}
         <p>
-        Swipe to see our catalogue of Amazing Buildings,
+       See our products,
 
         </p>
       </div>
