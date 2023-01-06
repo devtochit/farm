@@ -37,9 +37,11 @@ function Navbar() {
         </a>
       </div>
       <ul className="nav-menu">
-        <Link="/about">
+        
+        <Link to="/about">
           <li>Our Company</li>
         </Link>
+
         <Link to="/product" >
           <li> Product& Services</li>
         </Link>
@@ -63,9 +65,11 @@ function Navbar() {
 
       <div className={nav ? "mobile-menu active" : "mobile-menu"}>
         <ul className="mobile-nav">
-          <Link="/about">
+          
+        <Link to="/about">
           <li>Our Company</li>
-          </Link>
+        </Link>
+
           <Link to="/product" onClick={handleNav}>
           <li> Product& Services</li>
           </Link>
