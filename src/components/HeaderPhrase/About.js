@@ -7,7 +7,7 @@ const AmenityPhrase = () => {
             <div className="hero__inner">
                 <h1 className="hero__heading">
                     <span className="hero__heading--left">  ABOUT </span>
-                    <span className="hero__heading--right">DFARM AGRIC.</span>
+                    <span className="hero__heading--right">DFARM AGRI.</span>
                 </h1>
             </div>
         </div>
