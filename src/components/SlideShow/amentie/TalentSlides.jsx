@@ -28,7 +28,7 @@ function TalentSlides() {
             className="slideshow__item"
             style={{ backgroundImage: `url('${item.image}')` }}
           >
-            {/* <p className="slideshow__item-label">{item.name}</p> */}
+           <p className="slideshow__item-label">{item.name}</p> 
           </div>
         ))}
       </div>

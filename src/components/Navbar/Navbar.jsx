@@ -65,6 +65,7 @@ function Navbar() {
 
       <div className={nav ? "mobile-menu active" : "mobile-menu"}>
         <ul className="mobile-nav">
+
         <Link to="/about">
           <li>Our Company</li>
         </Link>
