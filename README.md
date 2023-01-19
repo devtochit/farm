@@ -25,7 +25,7 @@ Major Components of the Project includes
 
 ### Links
 
-- Live Site URL:https://estate-543sqpef2-yori-admin.vercel.app/
+- Live Site URL:farm-kappa.vercel.app
 
 ### Images of the project
 
