@@ -47,10 +47,11 @@ export const slidesData = [
     imageURL: Goat,
   },
   {
-    title: "Plantain",
+    title: "banana",
     description:
-      " At Dfarm Agri, we are excited to offer our customers our premium quality plantains. Grown on our own sustainable and organic farm, our plantains are harvested at the perfect stage of ripeness to ensure that they are sweet and delicious. These plantains are known for their versatility in the kitchen, they can be eaten as a snack, fried, boiled, grilled, roasted, mashed or even used in baking. Rich in dietary fiber, potassium, and vitamins, our plantains are not only delicious but also good for your health. Order now and add some tropical flavor to your meals with Dfarm Agri's plantains.",
-    imageURL: 'https://i.ibb.co/JyB9XHS/photo-1635013973782-d6577fc8cb0c-1.png',
+      "Introducing the delicious and nutritious bananas from Dfarmagri! Our bananas are grown on sustainable farms using natural and organic methods, ensuring that they are not only good for you, but also good for the environment Our bananas are hand-picked at the peak of ripeness, ensuring that they are sweet, creamy, and packed full of flavor. They are rich in potassium, vitamin B6, and vitamin C, making them a great addition to any healthy diet. Whether you enjoy them on their own, in smoothies, or as an ingredient in baking, our bananas are sure to satisfy. Plus, they come in a convenient bunch, making it easy to grab as many as you need for your recipe or for snacking.Order now and taste the difference of Dfarmagri bananas. You'll love the quality and taste, and you'll feel good knowing that you're supporting sustainable farming practices.",
+
+    imageURL: 'https://i.ibb.co/ftZTHZP/RNm0-Kce-Q4-Gbpb0xld-Oe7-DSC-0679-2.webp',
   },
   {
     title: "Watermelon",

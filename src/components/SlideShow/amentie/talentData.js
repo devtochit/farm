@@ -30,13 +30,13 @@ export const talents = [
     image: Goat,
   },
   {
-    name: "Plantain",
-    image:  'https://i.ibb.co/JyB9XHS/photo-1635013973782-d6577fc8cb0c-1.png',
+    name: "banana",
+    image: ' https://i.ibb.co/fnFnbst/photo-1603833665858-e61d17a86224.webp',
   },
   {
     name: "Watermelon",
-    image:  'https://i.ibb.co/mH0rpJ8/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.jpg',
+    image: 'https://i.ibb.co/mH0rpJ8/yoel-winkler-sg-UPv-Vi-E-Vg-unsplash.jpg',
   },
- 
+
 
 ];
