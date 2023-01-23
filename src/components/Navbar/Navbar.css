@@ -53,6 +53,7 @@ li {
   .navbar {
     justify-content: space-between;
   }
+
   .mobile-menu {
     display: flex;
     flex-direction: column;
@@ -118,8 +119,9 @@ li {
   .nav-icons {
     display: none;
   }
+
   .hamburger {
     display: block;
-    color: #f5f5f5;
+    color: #000;
   }
 }
