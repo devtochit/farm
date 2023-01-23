@@ -49,7 +49,7 @@ export const slidesData = [
   {
     title: "banana",
     description:
-      "Introducing the delicious and nutritious bananas from Dfarmagri! Our bananas are grown on sustainable farms using natural and organic methods, ensuring that they are not only good for you, but also good for the environment Our bananas are hand-picked at the peak of ripeness, ensuring that they are sweet, creamy, and packed full of flavor. They are rich in potassium, vitamin B6, and vitamin C, making them a great addition to any healthy diet. Whether you enjoy them on their own, in smoothies, or as an ingredient in baking, our bananas are sure to satisfy. Plus, they come in a convenient bunch, making it easy to grab as many as you need for your recipe or for snacking.Order now and taste the difference of Dfarmagri bananas. You'll love the quality and taste, and you'll feel good knowing that you're supporting sustainable farming practices.",
+      "Introducing the delicious and nutritious bananas from Dfarmagri! Our bananas are grown on sustainable farms using natural and organic methods, ensuring that they are not only good for you, but also good for the environment Our bananas are hand-picked at the peak of ripeness, ensuring that they are sweet, creamy, and packed full of flavor. They are rich in potassium, vitamin B6, and vitamin C, making them a great addition to any healthy diet. Whether you enjoy them on their own, in smoothies, or as an ingredient in baking, our bananas are sure to satisfy. Order now and taste the difference of Dfarmagri bananas. You'll love the quality and taste, and you'll feel good knowing that you're supporting sustainable farming practices.",
 
     imageURL: 'https://i.ibb.co/ftZTHZP/RNm0-Kce-Q4-Gbpb0xld-Oe7-DSC-0679-2.webp',
   },
