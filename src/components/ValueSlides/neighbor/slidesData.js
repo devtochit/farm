@@ -56,7 +56,7 @@ export const slidesData = [
     title: "plantain",
     description:
       "IIntroducing the versatile and delicious plantains from Dfarmagri! Our plantains are grown on sustainable farms using natural and organic methods, ensuring that they are not only good for you, but also good for the environment.Plantains are a staple in many African and Caribbean cuisines, and can be enjoyed in a variety of ways: fried, roasted, mashed, and more. They are a good source of complex carbs, dietary fiber, and vitamins A, C and B6.Order now and discover the delicious versatility of Dfarmagri plantains. You'll love the quality and taste, and you'll feel good knowing that you're supporting sustainable farming practicespracticespracticespracticespracticespracticespracticespracticespractices.",
-    imageURL: 'https://i.ibb.co/5RkDbyK/sandip-kalal-d-G0q-AZ2ge0-A-unsplash.jpgv',
+    imageURL: 'https://i.ibb.co/rvdwjTR/photo-1635013973782-d6577fc8cb0c.png',
   },
   {
     title: "Watermelon",
