@@ -38,7 +38,7 @@ export const slidesData = [
     title: "Snail",
     description:
       "At Dfarm Agri, we are proud to offer you our premium quality snails. Our snails are sourced from our own sustainable farm, where they are raised in a natural environment and fed a diet rich in plants, to ensure the highest quality and taste. They are also free from any chemicals and hormones, making them a healthy and natural protein source. Our snails are carefully handpicked and processed to ensure that they are clean and safe to consume. They are versatile in cooking, and can be prepared in various ways, grilled, fried, in stews and soups. Order now and experience the rich, delicious flavor of Dfarm Agri's snails ",
-    imageURL: Snail,
+    imageURL: "https://i.ibb.co/bQ3VswC/op23-Bgw-p-Sze4-A-unsplash.jpg",
   },
   {
     title: "Goat",
