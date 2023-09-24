@@ -31,7 +31,7 @@ function Feature3() {
               <div className={styles.lineDiv} />
             </div>
             <div className={styles.yearsOfFarmingExperience}>
-starte  in operation
+state in operation
             </div>
           </div>
           <div className={styles.frameDiv28}>
