@@ -4,6 +4,7 @@ import Palm from "../../../assets/Images/palm.png";
 import Pigs from "../../../assets/Images/pigs.png";
 import Snail from "../../../assets/Images/snail.avif";
 import Goat from "../../../assets/Images/goat.avif";
+import Gum from "../../../assets/Images/gum.jpeg"
 
 
 
@@ -52,12 +53,12 @@ export const slidesData = [
       "Introducing the delicious and nutritious product from Dfarmagri! Our bananas and plantains are grown on sustainable farms using natural and organic methods, ensuring that they are not only good for you, but also good for the environment Our bananas are hand-picked at the peak of ripeness, ensuring that they are sweet, creamy, and packed full of flavor. They are rich in potassium, vitamin B6, and vitamin C, making them a great addition to any healthy diet. Whether you enjoy them on their own, in smoothies, or as an ingredient in baking, our bananas are sure to satisfy. Order now and taste the difference of Dfarmagri bananas. You'll love the quality and taste, and you'll feel good knowing that you're supporting sustainable farming practices.",
     imageURL: 'https://i.ibb.co/mGyjGfy/chuttersnap-z-QWu-Vl-P-b-NI-unsplash.jpg',
   }, 
-  //  {
-  //   title: "plantain",
-  //   description:
-  //     "IIntroducing the versatile and delicious plantains from Dfarmagri! Our plantains are grown on sustainable farms using natural and organic methods, ensuring that they are not only good for you, but also good for the environment.Plantains are a staple in many African and Caribbean cuisines, and can be enjoyed in a variety of ways: fried, roasted, mashed, and more. They are a good source of complex carbs, dietary fiber, and vitamins A, C and B6.Order now and discover the delicious versatility of Dfarmagri plantains. You'll love the quality and taste, and you'll feel good knowing that you're supporting sustainable farming practicespracticespracticespracticespracticespracticespracticespracticespractices.",
-  //   imageURL: 'https://i.ibb.co/rvdwjTR/photo-1635013973782-d6577fc8cb0c.png',
-  // },
+   {
+    title: "Rubber Plantation",
+    description:
+      "Our Rubber Plantation boasts an extensive and sustainable cultivation of rubber trees, known for their latex production. With a commitment to quality and eco-friendly practices, our plantation offers premium natural rubber products to meet various industrial and commercial needs.",
+    imageURL: Gum,
+  },
   {
     title: "Watermelon",
     description:

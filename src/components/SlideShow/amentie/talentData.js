@@ -4,8 +4,14 @@ import Palm from "../../../assets/Images/palm.png";
 import Pigs from "../../../assets/Images/pigs.png";
 import Snail from "../../../assets/Images/snail.avif";
 import Goat from "../../../assets/Images/goat.avif";
+import Gum from "../../../assets/Images/gum.jpeg";
+
 
 export const talents = [
+  {
+    name: "Rubber Plantation",
+    image: Gum,
+  },
   {
     name: "Cows",
     image: Cows,

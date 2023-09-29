@@ -19,6 +19,7 @@ function RenderImages({ activeFeatureIndex }) {
   ));
 }
 
+
 function ValueSlides() {
   useEffect(() => {
     gsap.registerPlugin(ScrollTrigger);
